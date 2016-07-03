@@ -16,6 +16,7 @@
 推荐语：
 
 > **恐龙：**再次预言这本书能认真看十遍着都能进bat
+
 > **阿琛：**详尽地解读了JS这门语言的各个组成部分，透彻地剖析了JS所涉及的编程思想，深入浅出地演示了丰富的JS应用实例...读完这本书你不一定就能成为前端大牛，但如果你真的能把这本书读懂，吃透，那么你离JS高手肯定不远啦！
 
 **《[编写可维护的JavaScript](http://www.amazon.cn/gp/product/B00BQ7RMW0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00BQ7RMW0&linkCode=as2&tag=vastwork-23)》+ 入门级 + 185 票** 
