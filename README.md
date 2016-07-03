@@ -1,5 +1,5 @@
 # awesome-web-dev-books
-# 如果有人让你推荐前端技术书，请让他看这个列表
+## 如果有人让你推荐前端技术书，请让他看这个列表
 
 ## 前言
 
@@ -37,11 +37,12 @@
 
 > **宵伯特：**集 JS 之精华，弃其糟粕，人手一本，前端必备
 
- **《[锋利的jQuery](http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=vastwork-23)》+ 入门级 + 91** 
+> **《[锋利的jQuery](http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=vastwork-23)》+ 入门级 + 91** 
  
 推荐语：
 
 > **Arron：**学习jQuery必备书籍，不能错过 
+
 > **陶宇：**前后台通用快速使用jQuery，必备良书。
 
  **《[JavaScript DOM 编程艺术](http://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004VJM5KE&linkCode=as2&tag=vastwork-23)（第二版）》+ 入门级 + 131 票** 
@@ -49,6 +50,7 @@
 推荐语：
 
 > **SAVEKAI：**这本书的讲解方式非常亲切，人情味十足，初学者的福音。看完也能看看蝴蝶书。
+
 > **荣锋：**度过菜鸟阶段就会更多考虑性能和优化了《高性能 JavaScript》，当然还有其他好书这只是我的一个经历
 
  **《[学习 JavaScript 数据结构与算法](http://www.amazon.cn/gp/product/B016DWSF8M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B016DWSF8M&linkCode=as2&tag=vastwork-23)》+ 入门级 + 31** 
@@ -63,7 +65,7 @@
 
 > **蒋熙****：**JS高程作者写的关于ES6的，感觉还不错哦
 
-  **《[JavaScript忍者秘籍](http://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B016DWSEWO&linkCode=as2&tag=vastwork-23)》+ 进阶级 + 48** 
+**《[JavaScript忍者秘籍](http://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B016DWSEWO&linkCode=as2&tag=vastwork-23)》+ 进阶级 + 48** 
  
 推荐语：
 
@@ -131,6 +133,7 @@
 推荐语：
 
 > **猕猴桃：**就是它把我骗进前端的 
+
 > **周xj.com****：**纯小白的我第一次买的。懂了挺多。
 
 **《[CSS揭秘](http://www.amazon.cn/gp/product/B01ET3FO86/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B01ET3FO86&linkCode=as2&tag=vastwork-23)》+ 进阶级 + 37** 
@@ -158,6 +161,7 @@
 推荐语：
 
 > **赵晓冬****：**看完后会感觉技能绝对上一个层次 
+
 > **李航：**全端通用技能必须get
 
 ## 你也可以来推荐
