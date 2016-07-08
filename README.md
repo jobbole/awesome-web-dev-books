@@ -37,7 +37,7 @@
 
 > **宵伯特：**集 JS 之精华，弃其糟粕，人手一本，前端必备
 
-> **《[锋利的jQuery](http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=vastwork-23)》+ 入门级 + 91** 
+ **《[锋利的jQuery](http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=vastwork-23)》+ 入门级 + 91** 
  
 推荐语：
 
