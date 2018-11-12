@@ -25,11 +25,6 @@
 
 > **Master.Huoooo：**乌龟书，很薄，但从工程实践的角度谈了常见的坑，其中的工作习惯值得coder们学习
 
-**《[jQuery 权威指南](http://www.amazon.cn/gp/product/B00FDHLWA2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00FDHLWA2&linkCode=as2&tag=vastwork-23)》+ 入门级 + 132 票** 
-
-推荐语：
-
-> **言楓：**全面介绍了jQuery 各个方法的使用，适合有JavaScript基础的入门
 
  **《[Javascript语言精粹](http://www.amazon.cn/gp/product/B0097CON2S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0097CON2S&linkCode=as2&tag=vastwork-23)》/ 蝴蝶书 + 入门级 + 97 票** 
 
@@ -37,13 +32,6 @@
 
 > **宵伯特：**集 JS 之精华，弃其糟粕，人手一本，前端必备
 
-> **《[锋利的jQuery](http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=vastwork-23)》+ 入门级 + 91** 
- 
-推荐语：
-
-> **Arron：**学习jQuery必备书籍，不能错过 
-
-> **陶宇：**前后台通用快速使用jQuery，必备良书。
 
  **《[JavaScript DOM 编程艺术](http://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004VJM5KE&linkCode=as2&tag=vastwork-23)（第二版）》+ 入门级 + 131 票** 
  
