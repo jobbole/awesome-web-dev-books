@@ -148,6 +148,14 @@
 
 > **陈军军****：**系统、全面，没有高深的用法，比较简单，如果对应用要求一般，这本书的知识完全能够应付过来，辅佐以js语言精粹，完全足够
 
+## Node.js
+
+**《[深入浅出Node.js](https://www.amazon.cn/dp/B00GOM5IL4/ref=sr_1_1?ie=UTF8&qid=1552041588&sr=8-1&keywords=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAnodejs)》+ 进阶级**
+
+推荐语：
+
+> **天真:** 从原理上揭示node的特点和结构，是一本帮助拓宽思维的好书。
+
 ## 综合类
 
 **《[编写高质量代码：Web前端开发修炼之道](http://www.amazon.cn/gp/product/B003U8XUKQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B003U8XUKQ&linkCode=as2&tag=vastwork-23)》+ 进阶级 + 83 票** 
