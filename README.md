@@ -9,6 +9,18 @@
 
 （前端大全）
 
+-----
+其他 Awesome 前端资源系列：
+
+《让你受益匪浅的前端技术干货系列》：https://github.com/jobbole/awesome-front-posts
+《如果有人让你推荐前端技术书，请让他看这个列表》：https://github.com/jobbole/awesome-web-dev-books
+《JavaScript 资源大全中文版》：https://github.com/jobbole/awesome-javascript-cn
+
+《CSS 资源大全中文版》：https://github.com/jobbole/awesome-css-cn
+
+-----
+
+
 ## JavaScript
 
 **《[JavaScript高级程序设计](http://www.amazon.cn/mn/detailApp/ref=as_li_qf_sp_asin_tl?_encoding=UTF8&tag=vastwork-23&linkCode=as2&asin=B003V42XZW&camp=536&creative=3200&creativeASIN=B003V42XZW)》+ 入门级 +  306 票** 
