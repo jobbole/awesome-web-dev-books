@@ -13,7 +13,7 @@
 其他 Awesome 前端资源系列：
 
 《让你受益匪浅的前端技术干货系列》：https://github.com/jobbole/awesome-front-posts
-《如果有人让你推荐前端技术书，请让他看这个列表》：https://github.com/jobbole/awesome-web-dev-books
+
 《JavaScript 资源大全中文版》：https://github.com/jobbole/awesome-javascript-cn
 
 《CSS 资源大全中文版》：https://github.com/jobbole/awesome-css-cn
